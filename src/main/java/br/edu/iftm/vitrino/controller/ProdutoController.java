@@ -3,7 +3,7 @@ package br.edu.iftm.vitrino.controller;
 import java.util.List;
 
 import org.springframework.http.HttpStatus; // Para usar HttpStatus.CREATED
-import org.springframework.http.ResponseEntity;
+import org.springframework.http.ResponseEntity; 
 import org.springframework.web.bind.annotation.*;
 
 import br.edu.iftm.vitrino.entity.Produto;
